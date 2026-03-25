@@ -1,0 +1,15 @@
+# Node modules directory
+node_modules/
+
+# Distribution directory
+/dist/
+
+# Environment variable files
+.env
+
+# Logs
+*.log
+
+# IDE files
+.idea/
+.vscode/
